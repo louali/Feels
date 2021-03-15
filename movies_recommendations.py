@@ -49,4 +49,4 @@ if __name__ == "__main__":
     try:
         recommendations_for_user(sys.argv[1])
     except:
-        print("python movies_recommendations.py [user_id]")
+        print("python movies_recommendations.py user_id")
