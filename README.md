@@ -2,8 +2,9 @@
 
   Solution de prédiction de films à recommander à un utilisateur basé sur le dataset MovieLens 100K :  https://grouplens.org/datasets/movielens/
 
-# Create new python env:
+# Création de l'environnement python:
 
+  ```bash
   python3 -m pip install --user virtualenv
   
   python3 -m venv env
@@ -11,6 +12,7 @@
   source env/bin/activate
 
   pip install -r requirements.txt
+  ```
   
 # Exemple
 
